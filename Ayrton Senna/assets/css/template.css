@@ -1,0 +1,21 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #00FF00;
+}
+
+main {
+    display: block;
+    justify-content: center;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+}
+.p {
+   
+    
+}
+img {
+    
+}
