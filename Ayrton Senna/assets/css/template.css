@@ -16,6 +16,7 @@ p {
     display: flex;
     justify-content: center;
     font-family: Arial;
+    white-space: 0px;
 }
 section {
     display: flex;
