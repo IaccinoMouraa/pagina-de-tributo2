@@ -1,10 +1,9 @@
 body {
     margin: 0px;
     padding: 0px;
-    background-color: #00FF00;
+   
 }
-
-main {
+header {
     display: block;
     justify-content: center;
 }
@@ -12,10 +11,16 @@ h1 {
     display: flex;
     justify-content: center;
 }
-.p {
-   
-    
+p {
+    display: flex;
+    justify-content: center;
+    font-family: Arial;
+}
+section {
+    display: flex;
+    justify-content: center;
 }
 img {
-    
+    display: flex;
+    object-fit: cover;
 }
