@@ -1,6 +1,7 @@
 body {
     margin: 0px;
     padding: 0px;
+    background-color: #CCCCCC;
    
 }
 header {
@@ -23,4 +24,28 @@ section {
 img {
     display: flex;
     object-fit: cover;
+    border: 5px 5px solid #ff00;
+}
+nav {
+   display: flex;
+   justify-content: center;
+   height: 130px;
+}
+ul {
+    display: block;
+    justify-content: center;
+    background-color: black;
+    color:#ffff;
+}
+li {
+    justify-content: center;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+footer {
+    flex:1;
+    margin-bottom: 20px;
+    padding-left:  50%;
+    color:#006eff;
+    text-decoration: none;
 }
